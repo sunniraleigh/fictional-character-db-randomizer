@@ -3,9 +3,10 @@
 **Date:** April 26, 2021  
 **Course:** CSC 212 - Programing with Data Structures - Spring 2021  
 
-**Files:** 
+**Files:**  
 Text Files: 
 - database.csv  
+
 Java Files:  
 - database.java  
 
